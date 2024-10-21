@@ -58,7 +58,7 @@
 
 > Add your answer here!
 -Alibaba (Hosted by Alibaba Cloud)
-  - Logo: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAZCAMAAABTqB2/AAAAtFBMVEX/////UgD/VgD/aAD/WgD/z77/4NX/tZr/8Ov/7ef/2s7/XwD/ZQD/0sP/vKP/pID/qYj/x7P/9/T/jlz/hk//w67/m3L/sZT/rY3/oHr/SwD/y7n/dCzvWwD/g0b/l2vNQwCZrbS4sK2sY0LgRwDDQQCPNACTcmabnZ7JysrN29/RWhGpMQCQaFicp6rc4uWqtrmIkZTs7OyWQhD/bxwAISpkbG68vLz/eTdvXFWVWD3ThGNXGEOsAAABvElEQVQ4jdWTaXPTMBCGV5Kty7IUX7J8JIaWI4UeFAw18P//F5vUgcyEJuYjO6Px+8740UqrXYCXI62Lfs02QZ355zT0ECWGvXp9df2Gxv+ATYkxb9+9394AfPgYLeaKaH17d/8wu4rkyzCerO8+HW+TLONSyswjfj8fPBGLOE0Z+7KDttu9z6NxEScjxr5+e3raPs4ZR7rsOSbGzD08HM4JJVn2GFXC2O3NH+9p+K35ueKOzHw/spYWs1KiO5cwp+zHkVWUzdTGXjgqZT9nJSWAM31crcp2iiG/0ASWJlNthSscRxdoQskocAuoqgspuSvLQejZpZmeM6X6ReQ/CO3whdIGViLfV2Qfyh03Gq+zv4DM4KDWLcRatc/thVXULT9IrKiAuD7hMiqJBUGAlTIq+0jp1pGMRwUzeYcyBeixM6ArbRUGVYAKwdU4aWzKRrMD+0KSDojLaz8WnHAgQgZvmh0ow5DGUELuPKg6SJQZafxAM9HCWEricWqLSDIEVxnp+lFRBD1m3YEb4GLACweOUuzG2wntoLZ5E/sA3AdbKRcPArQX+962rtGcY8UCrioNNvCTKy+JFXbTLyrRG8f19E3aAAAAAElFTkSuQmCC
+  - Logo: ![image](https://github.com/user-attachments/assets/74c7764f-b1e5-4a71-8b54-4cba2ba63afc)
   - Details : Chinese multinational technology company specializing in e-commerce, retail, Internet, and technology
 ***
 
