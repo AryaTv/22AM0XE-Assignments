@@ -25,10 +25,11 @@
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 [ML] Complete the learning path : https://developers.google.com/codelabs/tensorflow-1-helloworld and add the details in the Github repo
-![image](https://github.com/user-attachments/assets/616c5d4e-c0fc-47c0-bb6e-311b7fbf704e)
+> Add your answer here!
+> - Completion Badge
+> - Completion Screenshot	
 
-
-'***
+***
 
 #### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki
 > Add your answer here!
@@ -57,9 +58,7 @@
   - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
 
 > Add your answer here!
--Alibaba (Hosted by Alibaba Cloud)
-  - Logo: ![image](https://github.com/user-attachments/assets/74c7764f-b1e5-4a71-8b54-4cba2ba63afc)
-  - Details : Chinese multinational technology company specializing in e-commerce, retail, Internet, and technology
+
 ***
 
 #### #7 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
