@@ -68,16 +68,20 @@
 ***
 
 #### #7 Commit the code to the Github Repo. The repo should be a public one. And raise a PR to this repo: https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
+![Screenshot 2024-10-23 205254](https://github.com/user-attachments/assets/6a748ad5-0044-430e-bf9b-ffaea9fe928e)
+
 
 ***
 
 #### #8 Document all the learnings with screenshots in the GitHub Wiki / in .md file
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/35b805bc-8049-4ed0-be23-1f38b8a6e96b)
+
 
 ***
 
 #### #9 Create a post on Linkedin about your learning journey in this 1 credit course
-> Add your answer here!
+![WhatsApp Image 2024-10-23 at 21 19 27_1e03f728](https://github.com/user-attachments/assets/40577c24-d0c6-4ddd-a296-4095ee35f455)
+
+(https://www.linkedin.com/posts/arya-t-v-a51531277_i-am-writing-to-express-my-sincere-gratitude-activity-7254881023988006915-iWVQ?utm_source=screenshot_social_share&utm_medium=android_app&utm_campaign=share_via)
 
 ***
